@@ -17,7 +17,7 @@ Libraries used:
 * **w1.2 - jupyter-labs-webscraping.ipynb**: this notebook performed the data collection through web scraping from Wikipedia of the SpaceX Falcon 9 launch records. Tasks performed: extraction Falcon 9 launch records from an HTML table from Wikipedia and then parse the table and convert it into a Pandas data frame. \
 Libraries used:
     * Pandas
-    * BeautifulSoup \
+    * BeautifulSoup
 
 * **w1.3 - labs-jupyter-spacex-Data wrangling.ipynb**: this notebook has the data wrangling process, meaning that some Exploratory Data Analysis (EDA) was performed to find some patterns in the data and determine what would be the label for training supervised models (Machine Learning models). \
 Libraries used:
