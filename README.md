@@ -53,10 +53,9 @@ Machine Learning models used:
     * Decision Tree
     * K Nearest Neighbors
 
-    Libraries used:
-
-* Pandas
-* Numpy
-* Matplotlib
-* Seaborn
-* Scikit-learn
+Libraries used:
+   * Pandas
+   * Numpy
+   * Matplotlib
+   * Seaborn
+   * Scikit-learn
