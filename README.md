@@ -5,7 +5,7 @@
 It is the Capstone project for the IBM Data Science Professional Certificate, using SpaceX's public data.
 <br>
 
-**<u>Files’ description:</u>**
+**<ins>Files’ description:</ins>**
 
 
 
