@@ -47,11 +47,7 @@ Libraries used:
     * Plotly \
 
 * **w4.1 - SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb**: it was created a machine learning pipeline to predict if the first stage of the rocket would land successfully or not. The preparation tasks were: creating a column for the class, standardizing the data, and splitting into training data and test data. Later, when applying the machine learning models, the objectives were finding the best hyperparameters for them and find the model that performs the best using the test data. \
-Machine Learning models used:
-    * Logistic Regression
-    * Support Vector Machine
-    * Decision Tree
-    * K Nearest Neighbors<br>
+Machine Learning models used: Logistic Regression, Support Vector Machine, Decision Tree, and K Nearest Neighbors.
 Libraries used:
    * Pandas
    * Numpy
