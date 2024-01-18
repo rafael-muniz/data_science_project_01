@@ -51,8 +51,8 @@ Machine Learning models used:
     * Logistic Regression
     * Support Vector Machine
     * Decision Tree
-    * K Nearest Neighbors
-<br>Libraries used:
+    * K Nearest Neighbors<br>
+Libraries used:
    * Pandas
    * Numpy
    * Matplotlib
